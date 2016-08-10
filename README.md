@@ -14,8 +14,10 @@ Normaly: /wp-content/plugins/
 
 ### 1.0.2
 -   Allow async loading instead parrallel.
+
 ### 1.0.1
 -   Added support for SSL / https
+
 ### 1.0.0 
 -   First release of the system.
 
