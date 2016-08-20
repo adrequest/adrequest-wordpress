@@ -11,6 +11,8 @@ Normaly: /wp-content/plugins/
 -   Go to Settings -> Adrequest and enter your license code.
 
 ## Changes
+### 1.03
+-	Added a activation hook with request to adrequest servers
 
 ### 1.0.2
 -   Allow async loading instead parrallel.

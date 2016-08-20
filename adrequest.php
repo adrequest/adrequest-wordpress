@@ -12,6 +12,7 @@ add_action( 'admin_menu', 'adrequest_add_admin_menu' );
 add_action( 'admin_init', 'adrequest_settings_init' );
 add_action('wp_head', 'adrequest_get_license');
 
+
 function adrequest_get_license( ){
 	$options = get_option( 'adrequest_settings' );
 	echo '<!-- BEGIN Adrequest -->
@@ -25,6 +26,13 @@ function adrequest_get_license( ){
 <!-- END Adrequest -->';
 
 }
+
+register_activation_hook(__FILE__, 'adrequest_activate');
+
+function adrequest_activate(){
+	file_get_contents('https://beheer.adrequest.net/activate?domain='.$_SERVER['SERVER_NAME']);
+}
+
 
 function adrequest_add_admin_menu(  ) { 
 
