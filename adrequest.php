@@ -4,7 +4,7 @@ Plugin Name: Adrequest
 Plugin URI: http://www.adrequest.net/
 Description: Adds functinality of Adrequest Advertising to your website
 Author: Jaap Marcus
-Version: 1.0
+Version: 1.0.3
 Author URI: http://mino.to
 */
 
@@ -54,7 +54,7 @@ function adrequest_settings_init(  ) {
 
 	add_settings_field( 
 		'adrequest_license', 
-		__( 'Licenstie', 'wordpress' ), 
+		__( 'Licentie', 'wordpress' ), 
 		'adrequest_license', 
 		'pluginPage', 
 		'adrequest_pluginPage_section' 
