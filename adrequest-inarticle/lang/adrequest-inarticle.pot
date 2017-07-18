@@ -1,0 +1,52 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-18 08:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: adrequest-inarticle.php:62
+msgctxt "License"
+msgid "Licentie"
+msgstr ""
+
+#: adrequest-inarticle.php:63
+msgid "Plaats na alinea"
+msgstr ""
+
+#: adrequest-inarticle.php:64
+msgid "Minimaal"
+msgstr ""
+
+#: adrequest-inarticle.php:65
+msgid "Op de index onder x artikel een advertentie (99 voor geen)"
+msgstr ""
+
+#. Name of the plugin
+msgid "Adrequest Inarticle"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds functinality of Adrequest Advertising to your website"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.adrequest.net/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jaap Marcus"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://adrequest.com"
+msgstr ""

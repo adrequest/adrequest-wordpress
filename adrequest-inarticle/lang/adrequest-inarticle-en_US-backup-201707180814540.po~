@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adrequest Inarticle\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-18 08:13+0000\n"
+"PO-Revision-Date: 2017-07-18 08:13+0000\n"
+"Last-Translator: admin <myron.vanleuveren@minoto-interactive.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Adrequest"
+msgstr "Adrequest"
+
+#: adrequest-inarticle.php:62
+msgid "Licentie"
+msgstr "License"
+
+#: adrequest-inarticle.php:63
+msgid "Plaats na alinea"
+msgstr "Place after paragraph"
+
+#: adrequest-inarticle.php:64
+msgid "Minimaal"
+msgstr "Minimum"
+
+#: adrequest-inarticle.php:65
+msgid "Op de index onder x artikel een advertentie (99 voor geen)"
+msgstr "On the index under x article a ad (99 for none)"
+
+#. Description of the plugin
+msgid "Voegt Adrequest Advertensie functionaliteit toe aan uw website"
+msgstr "Adds functionality of Adrequest Advertising to your website"
+
+#. URI of the plugin
+msgid "http://www.adrequest.net/"
+msgstr "http://www.adrequest.net/"
+
+#. Author of the plugin
+msgid "Jaap Marcus"
+msgstr "Jaap Marcus"
+
+#. Author URI of the plugin
+msgid "http://adrequest.com"
+msgstr "http://adrequest.com"
