@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Adrequest
-Plugin URI: http://www.adrequest.net/
+Plugin URI: https://github.com/adrequest/adrequest-wordpress/
 Description: Voegt Adrequest Advertensie functionaliteit toe aan uw website
 Author: Jaap Marcus
 Version: 1.2.0
