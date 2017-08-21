@@ -26,4 +26,5 @@ Normaly: /wp-content/plugins/
 ### 1.01
 - Added support for SSL
 
-### 1.0.0 First release of system
+### 1.0.0 
+- First release of system
